@@ -50,7 +50,7 @@ The theory for continuous integration and continuous deliver
 * [ci/cd pipeline](https://semaphoreci.com/blog/cicd-pipeline)
 * [devopsdays](http://www.devopsdays.org)  
 * [ci cheatsheet](https://dzone.com/refcardz/continuous-integration)  
-* [devops_roadmap](https://github.com/kamranahmedse/developer-roadmap)  
+* [devops_roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
 ## `Build And Release System`
 The system for software build and release, continuous integration and continuous delivery  
@@ -291,6 +291,7 @@ Conference and submit
 ## Books
 * [Securing DevOps](https://manning.com/books/securing-devops?a_aid=securingdevops&a_bid=1353bcd8) - A book on utilizing CI/CD techniques to improve the security of web applications and their infrastructure.
 * [Learning Continuous Integraion with TeamCity](https://www.packtpub.com/web-development/learning-continuous-integration-teamcity-raw) - Master the principles and practices behind Continuous Integration by setting it up for different technology stacks using TeamCity
+* [Fundamentals of DevOps and Software Delivery](https://www.fundamentals-of-devops.com/): A hands-on guide to deploying and managing software in production, including deploying applications and microservices to the cloud, managing your infrastructure as code, automating your software delivery lifecycle in a CI/CD pipeline, configuring networking, setting up data stores, hooking up monitoring, and much more.
 
 ## Other Awesome Lists
 Other amazingly awesome lists can be found in  
